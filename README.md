@@ -9,11 +9,11 @@
 I prefer Amazon Web Services & DevOps Tools.
 <br/>
 
-- AWS, DevOPs,Python, HTML5, CSS3, Git, GitHub,  Jira, SDCL, Agile, Docker, Kubernetes, Terraform, Ansible 
+- AWS, DevOPs,Python, HTML5, CSS3, Git, GitHub,  Jira, Agile, Docker, Kubernetes, Terraform, Ansible 
 
 - 💬 Ask  me about anything that you want to learn
 
--  You can reach me via Linkedin:  <a href="linkedin.com/in/sahin-yusuf" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+-  You can reach me via Linkedin:  <a href="linkedin.com/in/sahin-yusuf" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"  height="20"/></a>
 
 
 ## 🚀 Skills
