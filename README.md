@@ -9,7 +9,7 @@
 I prefer Amazon Web Services & DevOps Tools.
 <br/>
 
-- AWS, DevOPs,Python, HTML5, CSS3, Git, GitHub,  Jira, SDCL, Agile, Dockers, Kubernetes, Terraform, Ansible 
+- AWS, DevOPs,Python, HTML5, CSS3, Git, GitHub,  Jira, SDCL, Agile, Docker, Kubernetes, Terraform, Ansible 
 
 - 💬 Ask  me about anything that you want to learn
 
@@ -27,8 +27,9 @@ I prefer Amazon Web Services & DevOps Tools.
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="Github" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira"  height="48"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> 
+<!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a> --> 
 
 </p>
 
