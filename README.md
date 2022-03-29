@@ -1,6 +1,6 @@
 ## Hi there 👋  Yusuf  is here. (LOADING...)
 
-<a href="https://www.linkedin.com/in/sahin-yusuf" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="github_pages" height="28.5"/></a>
+<a href="https://www.linkedin.com/in/sahin-yusuf" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin_pages" height="28.5"/></a>
 <a href="https://seryum65.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=seryum65" alt="visitor counter" height="28.5"/>
 <!-- <p align="left" >  </p> -->
 
@@ -42,4 +42,4 @@ I prefer Amazon Web Services & DevOps Tools.
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=seryum65&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=seryum65&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seryum65&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seryum65&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p> --> 
