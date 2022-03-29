@@ -1,6 +1,6 @@
 ## Hi there 👋  Yusuf  is here. (LOADING...)
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahin-yusuf) 
+<a href="https://www.linkedin.com/in/sahin-yusuf" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="github_pages" height="28.5"/></a>
 <a href="https://seryum65.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=seryum65" alt="visitor counter" height="28.5"/>
 <!-- <p align="left" >  </p> -->
 
