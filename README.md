@@ -47,4 +47,4 @@ I prefer Amazon Web Services & DevOps Tools.
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=seryum65&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=seryum65&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seryum65&langs_count=8&theme=chartreuse-dark&layout=compact" alt="languages" width="49%" > </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seryum65&langs_count=8&theme=chartreuse-dark&layout=compact" alt="languages" width="49%" > </p>
