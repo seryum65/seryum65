@@ -4,12 +4,12 @@
 <a href="https://seryum65.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=seryum65" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
-### What I'm using ? 🛠     ZAMANLA DÜZENLENECEK KISIM
+### What I'm using ? 🛠     
 
-I prefer React & React Native for web/mobile front-end development.
+I prefer Amazon Web Services & DevOps Tools.
 <br/>
 
-- Python, HTML5, CSS3, Git, GitHub, AWS, DevOPs, Jira, SDCL, Agile 
+- Python, HTML5, CSS3, Git, GitHub, AWS, DevOPs, Jira, SDCL, Agile, Dockers, Kubernetes, Terraform, Ansible 
 
 - 💬 Ask  me about anything that you want to learn
 
@@ -43,6 +43,6 @@ I prefer React & React Native for web/mobile front-end development.
 
 ## 📈 Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=GİTHUB KULLANICI ADI=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GİTHUB KULLANICI ADI&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GİTHUB KULLANICI ADI&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=seryum65&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=seryum65&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seryum65&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
