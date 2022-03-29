@@ -18,22 +18,16 @@ I prefer Amazon Web Services & DevOps Tools.
 
 ## 🚀 Skills
 <p>
- <a href="#" target="_blank"> <img src="https://images-na.ssl-images-amazon.com/images/G/01/gc/designs/livepreview/amazon_dkblue_noto_email_v2016_us-main._CB468775337_.png" alt="AWS" width="70" height="48"/> </a> 
- <a href="#" target="_blank"> <img src="https://algoteque.com/wp-content/uploads/2019/04/1AwvDJDfErlD34ox2QpwGoA.png" alt="AWS" width="100" height="48"/> </a> 
- <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="48"/> </a>  
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="48"/> </a> 
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://images-na.ssl-images-amazon.com/images/G/01/gc/designs/livepreview/amazon_dkblue_noto_email_v2016_us-main._CB468775337_.png" alt="AWS" width="70" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://algoteque.com/wp-content/uploads/2019/04/1AwvDJDfErlD34ox2QpwGoA.png" alt="AWS" width="100" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="48"/> </a>  
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/git_scm_logo_icon_170097.png" alt="git"  height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="Github" height="48"/> </a>
-<!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="48"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="material-ui" height="48"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="48"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="50"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="50"/> </a>  -->
-<!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height="70"/> </a>  -->
- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="48"/> </a> 
- <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="48"/> </a>
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="48"/> </a> 
- <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170512.png" alt="Jira"  height="48"/> </a>
 </p>
 
 
