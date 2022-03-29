@@ -4,7 +4,7 @@
 <a href="https://seryum65.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=seryum65" alt="visitor counter" height="28.5"/>
 <!-- <p align="left" >  </p> -->
 
-### What I'm using ? 🛠     
+### What I'm using ? 🧑‍💻     
 
 I prefer Amazon Web Services & DevOps Tools.
 <br/>
@@ -16,7 +16,7 @@ I prefer Amazon Web Services & DevOps Tools.
 -  You can reach me via Linkedin:  <a href="linkedin.com/in/sahin-yusuf" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"  height="20"/></a>
 
 
-## 🚀 Skills
+## 🚴 Skills
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://algoteque.com/wp-content/uploads/2019/04/1AwvDJDfErlD34ox2QpwGoA.png" alt="DevOps" width="100" height="48"/> </a> 
@@ -39,7 +39,7 @@ I prefer Amazon Web Services & DevOps Tools.
 </p>
 
 
-## 📈 Statistics
+## 📊 Statistics
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=seryum65&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=seryum65&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
