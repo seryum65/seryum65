@@ -9,7 +9,7 @@
 I prefer Amazon Web Services & DevOps Tools.
 <br/>
 
-- Python, HTML5, CSS3, Git, GitHub, AWS, DevOPs, Jira, SDCL, Agile, Dockers, Kubernetes, Terraform, Ansible 
+- AWS, DevOPs,Python, HTML5, CSS3, Git, GitHub,  Jira, SDCL, Agile, Dockers, Kubernetes, Terraform, Ansible 
 
 - 💬 Ask  me about anything that you want to learn
 
@@ -23,7 +23,7 @@ I prefer Amazon Web Services & DevOps Tools.
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150" height="48"/> </a>  
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="48"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="48"/> </a> 
-<!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="48"/> </a>  -->
+<a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="Github" height="48"/> </a>
 <!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="48"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="material-ui" height="48"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="48"/> </a>  -->
