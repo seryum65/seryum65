@@ -1,9 +1,12 @@
-## <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Yusuf  is here. (LOADING...)
-<p>  
-<a href="https://github.com/seryum65/seryum65/network/members"><img src="https://img.shields.io/github/forks/seryum65/seryum65" alt="Forks Badge" height="20"/></a>  
-<a href="https://github.com/seryum65/seryum65/pulls"><img src="https://img.shields.io/github/issues-pr/seryum65/seryum65" alt="Pull Requests Badge" height="20"/></a>
-<a href="https://github.com/seryum65/seryum65/issues"><img src="https://img.shields.io/github/issues/seryum65/seryum65" alt="Issues Badge" height="20"/></a>
+<p align="center">  
+<a href="https://github.com/seryum65/seryum65/network/members"><img src="https://img.shields.io/github/forks/seryum65/seryum65?color=00C4CE" alt="Forks Badge" height="20"/></a>  
+<a href="https://github.com/seryum65/seryum65/pulls"><img src="https://img.shields.io/github/issues-pr/seryum65/seryum65?color=00C4CE" alt="Pull Requests Badge" height="20"/></a>
+<a href="https://github.com/seryum65/seryum65/issues"><img src="https://img.shields.io/github/issues/seryum65/seryum65?color=00C4CE" alt="Issues Badge" height="20"/></a>
+<a href="https://github.com/seryum65/seryum65/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/seryum65/seryum65?color=00C4CE"></a>   
 </p>
+
+## <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Yusuf  is here. (LOADING...)
+
 
 <h1 align="center"><a href="https://www.linkedin.com/in/sahin-yusuf" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin_pages" height="25"/></a>
 <a href="https://seryum65.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github_pages" height="25"/></a>
