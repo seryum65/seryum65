@@ -1,5 +1,6 @@
 ## <h1 align="center"> Hi there 👋  Yusuf  is here. (LOADING...)
 
+
 <h1 align="center"><a href="https://www.linkedin.com/in/sahin-yusuf" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin_pages" height="28.5"/></a>
 <a href="https://seryum65.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github_pages" height="28.5"/></a>
 <a href="https://twitter.com/seryum65" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="linkedin_pages" height="28.5"/></a>
