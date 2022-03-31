@@ -1,11 +1,17 @@
-## <h1 align="center"> Hi there 👋  Yusuf  is here. (LOADING...)
+## <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Yusuf  is here. (LOADING...)
+<p>  
+<a href="https://github.com/seryum65/seryum65/network/members"><img src="https://img.shields.io/github/forks/seryum65/seryum65" alt="Forks Badge" height="20"/></a>  
+<a href="https://github.com/seryum65/seryum65/pulls"><img src="https://img.shields.io/github/issues-pr/seryum65/seryum65" alt="Pull Requests Badge" height="20"/></a>
+<a href="https://github.com/seryum65/seryum65/issues"><img src="https://img.shields.io/github/issues/seryum65/seryum65" alt="Issues Badge" height="20"/></a>
+</p>
 
+<h1 align="center"><a href="https://www.linkedin.com/in/sahin-yusuf" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin_pages" height="25"/></a>
+<a href="https://seryum65.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github_pages" height="25"/></a>
+<a href="https://twitter.com/seryum65" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="linkedin_pages" height="25"/></a>
+<img src="https://komarev.com/ghpvc/?username=seryum65" alt="visitor counter" height="25"/>
 
-<h1 align="center"><a href="https://www.linkedin.com/in/sahin-yusuf" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin_pages" height="28.5"/></a>
-<a href="https://seryum65.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github_pages" height="28.5"/></a>
-<a href="https://twitter.com/seryum65" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="linkedin_pages" height="28.5"/></a>
-<img src="https://komarev.com/ghpvc/?username=seryum65" alt="visitor counter" height="28.5"/>
 <!-- <p align="left" >  </p> -->
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=seryum65.seryum65" alt="visitor counter" /> -->
 
 
 ### What I'm using ? 🧑‍💻     
