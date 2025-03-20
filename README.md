@@ -10,7 +10,6 @@
 
 <h1 align="center"><a href="https://www.linkedin.com/in/sahin-yusuf" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin_pages" height="25"/></a>
 <a href="https://seryum65.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github_pages" height="25"/></a>
-<a href="https://twitter.com/seryum65" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="linkedin_pages" height="25"/></a>
 <img src="https://komarev.com/ghpvc/?username=seryum65" alt="visitor counter" height="25"/>
 
 <!-- <p align="left" >  </p> -->
