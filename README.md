@@ -32,7 +32,7 @@ I prefer Amazon Web Services & DevOps Tools.
 ## 🚴 Skills
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="70" height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://pagertree.com/learn/assets/images/Devops%20Lifecycle-46ccaf695c535cd2a81764d58414c6d7.png" alt="DevOps" width="100" height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://shalb.com/wp-content/uploads/2019/11/Devops1-2048x1338.jpeg" alt="DevOps" width="100" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" width="100" height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"  height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="Linux"  height="48"/> </a> 
